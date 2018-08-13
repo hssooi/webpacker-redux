@@ -1,0 +1,15 @@
+current directory: /Users/souitakehito/src/rails/webpacker-react001/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/souitakehito/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180810-13755-1q902hx.rb extconf.rb
+creating Makefile
+
+current directory: /Users/souitakehito/src/rails/webpacker-react001/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/souitakehito/src/rails/webpacker-react001/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/souitakehito/src/rails/webpacker-react001/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180810-13755-zmy5p5/bindex
